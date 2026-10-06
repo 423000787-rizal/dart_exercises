@@ -1,6 +1,0 @@
-name: dart_exercises
-description: A basic Dart console application demonstrating core variables, data types, operators, and I/O.
-version: 1.0.0
-
-environment:
-  sdk: '>=3.0.0 <4.0.0'
