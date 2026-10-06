@@ -1,0 +1,8 @@
+=== Coffee Shop Order Summary ===
+Customer VIP Status: true
+Item: Caramel Macchiato
+Quantity: 5 x ₱125.5
+Subtotal: ₱627.5
+Stamps Earned: 2 (Total with bonus: 3)
+Progress to next stamp: 1 item(s)
+Qualifies for Bulk Discount? true
