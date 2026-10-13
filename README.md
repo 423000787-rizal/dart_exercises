@@ -1,6 +1,6 @@
 # Dart Core Programming Constructs Exercise
 
-**Name:** Rizal [Your Full Name]  
+**Name:** Rizal Abayon  
 **Course:** PC16 Mobile Development w/ Lab  
 
 ## Scenario Description
